@@ -9,14 +9,14 @@ This assignment illustrates a way of finding the optimal hyperparameter of Suppo
 
 ## Dataset
 The data used contains 9 columns and 12,960 rows. 
--parents: usual, pretentious, great_pret
--has_nurs: proper, less_proper, improper, critical, very_crit
--form: complete, completed, incomplete, foster
--children: 1, 2, 3, more
--housing: convenient, less_conv, critical
--finance: convenient, inconv
--social: non-prob, slightly_prob, problematic
--health: recommended, priority, not_recom
+- parents: usual, pretentious, great_pret
+- has_nurs: proper, less_proper, improper, critical, very_crit
+- form: complete, completed, incomplete, foster
+- children: 1, 2, 3, more
+- housing: convenient, less_conv, critical
+- finance: convenient, inconv
+- social: non-prob, slightly_prob, problematic
+- health: recommended, priority, not_recom
 
 
 
