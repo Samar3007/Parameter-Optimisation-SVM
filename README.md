@@ -8,7 +8,7 @@ This assignment illustrates a way of finding the optimal hyperparameter of Suppo
 
 
 ## Dataset
-The data used contains 9 columns and 12,960 rows. 
+The data used contains 8 columns and 12,960 rows. 
 - parents: usual, pretentious, great_pret
 - has_nurs: proper, less_proper, improper, critical, very_crit
 - form: complete, completed, incomplete, foster
